@@ -1,14 +1,17 @@
-ရည်ရွယ်ချက်
----------
+![](https://javascript30.com/images/JS3-social-share.png)
 
-ကျွန်တော်တို့ အခုမှစပြီး ဘာသာပြန်နေတုံးပါ၊ ရည်ရွယ်ချက် ကတော့ Laravel PHP Framework Documencation ကို မြန်မာလို ဖတ်ပြီး Laravel Framework ကို အလွယ်တကူ လေ့လာနိုင်ဖို့ပါ၊
+# JavaScript30
 
-ဒီဘာသာပြန်မှုမှာ ဘယ်လို ဘာဝင်ကူညီနိုင်လဲ
---------------------
+Starter Files + Completed solutions for the JavaScript 30 Day Challenge. 
 
-ဟုတ်ကဲ့ ကျွန်တော်တို့လည်းအလုပ်နဲ့ပါ အားတဲ့အချိန်လေးဘာသာပြန်ပြီးတော့ဒီမှာတင်တာပါ။ တကယ်လို့ကျွန်တော်တို့ကို ကူညီပြီးဘာသာပြန်ချင်တယ်ဆိုရင်ဒီ Repo မှာ pull request လုပ်ပြီး contribute လုပ်နိုင်ပါတယ်။ ကျွန်တော်တို့ဘာသာပြန်ပြီးသားတွေကိုလည်း စာလုံးပေါင်းအမှားတွေကို git issue တွေပေးနိုင်ပါတယ်။ [Contribute Guide](contributing.md) ကိုဖတ်ပေးပါ။
+Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-ဆက်သွယ်ရန် 
--------
+Text-based guides (unofficial) for the challenges can be found here - [Text Guides](https://github.com/nitishdayal/JavaScript30).
 
-- [Laravel Myanmar Facebook Group](https://www.facebook.com/groups/250409601822202/)
+## Pull Requests
+
+These are meant to be 1:1 copies of what is done in the video. If you found a better / different way to do things, great, but I will be keeping them the same as the videos. 
+
+The starter files + solutions will be updated if/when the videos are updated. 
+
+Thanks!
